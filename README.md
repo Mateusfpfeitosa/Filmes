@@ -17,13 +17,6 @@
 
 > O aplicativo desenvolvido Busca filmes na API e também mostra em um modal da sinopse do mesmo!!
 
-### Principais Tecnologias Ultilizadas
-```
-React-Native com JavaScript , componentização
-Bibliotecas : axios
-Componente : Flatlist ,StyleSheet ,ActivityIndicator
-```
-
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
