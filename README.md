@@ -32,7 +32,7 @@ Para instalar o <App_Filmes>, siga estas etapas:
 Linux, macOS e Windows:
 ```bash
 # Clone este repositório
-$ git clone https://github.com/brunosllz/Calculator-IMC.git
+$ git clone https://github.com/Mateusfpfeitosa/Filmes.git
 # Instale as dependências
 $ npm install ou yarn
 # Execute a aplicação
