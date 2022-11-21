@@ -29,25 +29,15 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o <App_Filmes>, siga estas etapas:
 
-Linux e macOS:
+Linux, macOS e Windows:
+```bash
+# Clone este repositório
+$ git clone https://github.com/brunosllz/Calculator-IMC.git
+# Instale as dependências
+$ npm install ou yarn
+# Execute a aplicação
+$ npm run dev ou yarn dev
 ```
-<Faça o download do zip no botão verde <code>, na parte superior direira após isso extraia em uma pasta>
-```
-
-Windows:
-```
-<Faça o download do zip no botão verde <code>, na parte superior direira após isso extraia em uma pasta>
-```
-
-## ☕ Usando <App_Filmes>
-
-Para usar <App_FIlmes>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 ## 📫 Contribuindo para <App_Filmes>
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
